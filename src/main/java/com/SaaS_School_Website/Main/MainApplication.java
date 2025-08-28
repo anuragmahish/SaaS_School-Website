@@ -8,7 +8,7 @@ public class MainApplication {
 
 	public static void main(String[] args) {
 
-        SpringApplication.run(MainApplication.class, args);
+        //SpringApplication.run(MainApplication.class, args);
 
         System.out.println("Running1");
         System.out.println("Running3");
