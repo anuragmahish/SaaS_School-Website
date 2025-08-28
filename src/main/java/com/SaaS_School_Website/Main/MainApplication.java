@@ -10,7 +10,15 @@ public class MainApplication {
 
         SpringApplication.run(MainApplication.class, args);
         
-        // Project starts here.................
+        /*
+         * Clone main branch
+         * create new branch
+         * do changes
+         * commit
+         * push into your branch
+         * create a pull request
+         * will merge later
+         */
 
 	}
 
