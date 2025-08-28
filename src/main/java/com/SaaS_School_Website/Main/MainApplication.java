@@ -8,15 +8,10 @@ public class MainApplication {
 
 	public static void main(String[] args) {
 
-        //SpringApplication.run(MainApplication.class, args);
+        SpringApplication.run(MainApplication.class, args);
+        
+        // Added line 1
 
-        System.out.println("Running1");
-        System.out.println("Running3");
-        int a = 10;
-        int b = 20;
-        int c = a+b;
-
-        System.out.println(c);
 	}
 
 }
