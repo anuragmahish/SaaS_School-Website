@@ -11,7 +11,7 @@ public class MainApplication {
         SpringApplication.run(MainApplication.class, args);
 
         System.out.println("Running1");
-        System.out.println("Running2");
+        System.out.println("Running3");
         int a = 10;
         int b = 20;
         int c = a+b;
